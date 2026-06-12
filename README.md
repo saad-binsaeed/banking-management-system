@@ -40,7 +40,7 @@ banking-management-system/
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/banking-management-system.git
+git clone https://github.com/saad-binsaeed/banking-management-system.git
 ```
 
 Move into project folder:
